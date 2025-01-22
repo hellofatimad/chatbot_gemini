@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+langchain-google-genai
+langchain_chroma
+langchainhub
+langchain_experimental
+python-dotenv
+sentence-transformers
+PyPdf2
+rapidocr-onnxruntime
